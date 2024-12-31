@@ -1,8 +1,8 @@
-My name is Caroline Twelves and I am in Computer Systems Engineering at Carleotn Univeristy
+##My name is Caroline Twelves and I am in Computer Systems Engineering at Carleotn Univeristy
 
-I am looking for a job working in software & electrical fields 
-I am currently working on a C solitaire program
-I am learning how to impliment a fast fourier transform into a program that will filter out certain soundwaves of an audio clip
+I am looking for a job working in software & electrical fields \
+I am currently working on a C solitaire program\
+I am learning how to impliment a fast fourier transform into a program that will filter out certain soundwaves of an audio clip\
 
 
 <!--
