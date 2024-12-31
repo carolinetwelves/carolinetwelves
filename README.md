@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there my name is Caroline Twelves and I am in second year Computer Systems Engineering at Carleotn Univeristy
+
 
 <!--
 **carolinetwelves/carolinetwelves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
